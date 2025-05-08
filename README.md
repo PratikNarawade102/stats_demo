@@ -1,4 +1,4 @@
 # stats_demo
 This is my first Git Repository.
 <br>
-Author - Pratik Narawade
+Author - Pratik Popat Narawade
